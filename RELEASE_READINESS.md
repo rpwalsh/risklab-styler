@@ -6,7 +6,7 @@
 - Validation: `npm run release:check`
 - Tarball consumer test: `npm run pack:check`
 - Release workflow: `.github/workflows/release.yml`
-- License: Apache-2.0 with `NOTICE`
+- License: Proprietary (see LICENSE and NOTICE)
 - ESM: root, `/server`, and `/compiler`
 - CommonJS: root, `/server`, and `/compiler`
 - Browser support: modern browsers; SSR collectors are DOM-independent
