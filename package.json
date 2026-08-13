@@ -53,11 +53,11 @@
     "ssr",
     "risklab"
   ],
-  "author": "Sarah Walsh",
+  "author": "Ryan P. Walsh",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/devgrrl/risklab-styler"
+    "url": "https://github.com/rpwalsh/risklab-styler"
   },
   "publishConfig": {
     "access": "public"
