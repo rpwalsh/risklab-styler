@@ -39,4 +39,4 @@ style document with `compileStyleDocument` from `@risklab/styler/compiler`.
 The compiler returns deterministic CSS plus class and animation manifests, so
 an application can ship extracted CSS without enabling runtime injection.
 
-Proprietary. Not open source. See `LICENSE` and `NOTICE`.
+Licensed under Apache-2.0.
