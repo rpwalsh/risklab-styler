@@ -4,6 +4,10 @@ RiskLab Styler is a typed, zero-runtime-dependency atomic styling engine for pro
 
 It provides deterministic atomic classes, nested selectors, conditional rules, theme-variable contracts, variant recipes, conflict-safe composition, runtime injection, isolated registries, hydration, and server-side collection.
 
+![RiskLab Styler catalog showing a JSON style contract compiled live into atomic CSS rules](docs/screenshots/catalog.png)
+
+Live catalog: [rpwalsh.github.io/?view=all](https://rpwalsh.github.io/?view=all)
+
 ```ts
 import { create, createVariants, defineVars, createTheme, props } from '@risklab/styler';
 
